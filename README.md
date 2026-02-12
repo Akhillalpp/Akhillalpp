@@ -20,7 +20,7 @@
 
 <!--- ⚡ Fun fact **I blend Carnatic music discipline with machine learning research precision.**-->
 
-- 👨‍💻 All of my projects are available at **[https://akhillalpp.github.io/](https://akhillalpp.github.io/)**
+- 👨‍💻 Find more about my projects at **[https://akhillalpp.github.io/](https://akhillalpp.github.io/)**
 
 - 📄 Find my Resume **[https://drive.google.com/file/d/1Pi1cfsKVWBjkzt62fqxbjrmFKSdLjXhT/view?usp=drive_link](https://drive.google.com/file/d/1Pi1cfsKVWBjkzt62fqxbjrmFKSdLjXhT/view?usp=drive_link)**
 
