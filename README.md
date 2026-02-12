@@ -16,7 +16,7 @@
 
 - 🛠 Skilled in **Python, PyTorch, OpenCV, NumPy, and ML model development**
   
-- 📊 Worked with **custom composite loss functions, segmentation metrics (Dice, Balanced Accuracy), and architecture tuning**
+<!---- 📊 Worked with **custom composite loss functions, segmentation metrics (Dice, Balanced Accuracy), and architecture tuning**-->
 
 - 📫 Reach me at **98lihka@gmail.com**
 
