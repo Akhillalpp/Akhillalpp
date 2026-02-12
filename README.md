@@ -8,21 +8,23 @@
 -->
 
 
-- 🌱 I'm currently learning **Advanced Computer Vision, Model Optimization, and Systems Design**
+- 🎯 Actively seeking opportunities in **Machine Learning, Computer Vision, and Medical Imaging**
 
-- 👯 I'm looking to collaborate on **Medical Imaging, Computer Vision research, and AI-driven products**
+- 🔬 Experienced in **Deep Learning-based Image Segmentation (OCT Retinal Layer Segmentation)**
 
-- 🤝 I'm looking for help with **Scaling ML systems and transitioning research models into real-world products**
+- 🧠 Strong foundation in **Signal Processing, Image Processing, and Model Evaluation**
 
-- 💬 Ask me about **Image Processing, Deep Learning, Image Segmentation , Python, and Signal Processing**
+- 🛠 Skilled in **Python, PyTorch, OpenCV, NumPy, and ML model development**
+  
+- 📊 Worked with **custom composite loss functions, segmentation metrics (Dice, Balanced Accuracy), and architecture tuning**
 
-- 📫 How to reach me **98lihka@gmail.com**
+- 📫 Reach me at **98lihka@gmail.com**
 
 <!--- ⚡ Fun fact **I blend Carnatic music discipline with machine learning research precision.**-->
 
-- 👨‍💻 Find more about my projects at **[https://akhillalpp.github.io/](https://akhillalpp.github.io/)**
+- 👨‍💻 Portfolio: **https://akhillalpp.github.io/**
 
-- 📄 Find my Resume **[https://drive.google.com/file/d/1Pi1cfsKVWBjkzt62fqxbjrmFKSdLjXhT/view?usp=drive_link](https://drive.google.com/file/d/1Pi1cfsKVWBjkzt62fqxbjrmFKSdLjXhT/view?usp=drive_link)**
+- 📄 Resume:**[https://drive.google.com/file/d/1Pi1cfsKVWBjkzt62fqxbjrmFKSdLjXhT/view?usp=drive_link](https://drive.google.com/file/d/1Pi1cfsKVWBjkzt62fqxbjrmFKSdLjXhT/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
