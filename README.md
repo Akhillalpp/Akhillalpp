@@ -1,8 +1,12 @@
 # Hi 👋, I'm Akhil Lal P.P
 
 ### Signal Processing & Computer Vision Engineer
+<!--
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akhillalpp&label=Profile views&color=0e75b6&style=flat" alt="Akhillalpp" /> </p>
+
+-->
+
 
 - 🌱 I'm currently learning **Advanced Computer Vision, Model Optimization, and Systems Design**
 
