@@ -10,7 +10,7 @@
 
 - 🎯 Actively seeking opportunities in **Machine Learning, Computer Vision, and Medical Imaging**
 
-- 🔬 Experienced in **Deep Learning-based Image Segmentation (OCT Retinal Layer Segmentation)**
+- 🔬 Experienced in **Deep Learning-based Image Segmentation**
 
 - 🧠 Strong foundation in **Signal Processing, Image Processing, and Model Evaluation**
 
@@ -24,7 +24,7 @@
 
 - 👨‍💻 Portfolio: **https://akhillalpp.github.io/**
 
-- 📄 Resume:**[https://drive.google.com/file/d/1Pi1cfsKVWBjkzt62fqxbjrmFKSdLjXhT/view?usp=drive_link](https://drive.google.com/file/d/1Pi1cfsKVWBjkzt62fqxbjrmFKSdLjXhT/view?usp=drive_link)**
+- 📄 Resume: **[https://drive.google.com/file/d/1Pi1cfsKVWBjkzt62fqxbjrmFKSdLjXhT/view?usp=drive_link](https://drive.google.com/file/d/1Pi1cfsKVWBjkzt62fqxbjrmFKSdLjXhT/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
