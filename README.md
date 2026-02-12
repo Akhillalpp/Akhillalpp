@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **98lihka@gmail.com**
 
-- ⚡ Fun fact **I blend Carnatic music discipline with machine learning research precision.**
+<!--- ⚡ Fun fact **I blend Carnatic music discipline with machine learning research precision.**-->
 
 - 👨‍💻 All of my projects are available at **[https://akhillalpp.github.io/](https://akhillalpp.github.io/)**
 
