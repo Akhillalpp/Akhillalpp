@@ -50,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
   
   <!-- SciPy -->
-  <img src="https://skillicons.dev/icons?i=scipy" height="40"/>
+  <img src="https://scipy.org/images/logo.svg" height="40"/>
   
   <!-- SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
