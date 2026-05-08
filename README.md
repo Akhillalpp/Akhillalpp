@@ -48,11 +48,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scipy.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Scikit_image_logo.png" height="40"/>
+  
+  <!-- SciPy -->
+  <img src="https://skillicons.dev/icons?i=scipy" height="40"/>
+  
+  <!-- SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
+  
+  <!-- MATLAB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/>
+  
+  <!-- C / C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
 </p>
