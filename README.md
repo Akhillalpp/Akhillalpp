@@ -1,4 +1,4 @@
-# Hi 👋, I'm Akhil Lal P.P
+# Hi 👋, I'm Akhil Lal
 
 ### Signal Processing & Computer Vision Engineer
 <!--
