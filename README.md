@@ -40,8 +40,11 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,numpy,pandas,sklearn,mysql,sqlite,c,cpp" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
 </p>
