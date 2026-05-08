@@ -29,13 +29,15 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://github.com/Akhillalpp" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-  
+ 
   <a href="https://www.linkedin.com/in/akhillal/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
+
+    <a href="mailto:98lihka@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+  
 </p>
 
 
