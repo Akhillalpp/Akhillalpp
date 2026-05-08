@@ -52,6 +52,9 @@
   <!-- SciPy -->
   <img src="https://scipy.org/images/logo.svg" height="40"/>
   
+  <!-- SciKitImage -->
+  <img src="https://scikit-image.org/_static/img/logo.png" height="40"/>
+  
   <!-- SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
