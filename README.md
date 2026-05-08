@@ -27,9 +27,15 @@
 - 📄 Resume: **[https://drive.google.com/file/d/1Pi1cfsKVWBjkzt62fqxbjrmFKSdLjXhT/view?usp=drive_link](https://drive.google.com/file/d/1Pi1cfsKVWBjkzt62fqxbjrmFKSdLjXhT/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://github.com/Akhillalpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Akhillalpp" height="30" width="40" /></a>
-<a href="https://in.linkedin.com/in/akhillal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/akhillal" height="30" width="40" /></a>
+  <a href="https://github.com/Akhillalpp" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/akhillal/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
